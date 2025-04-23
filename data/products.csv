@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+p101,Wireless Mouse,Electronics,599
+p102,Gaming Keyboard,Electronics,1999
+p103,HD Monitor,Electronics,8999
+p104,Laptop Stand,Accessories,799
+p105,USB-C Hub,Accessories,999
+p106,Ergonomic Chair,Furniture,5999
+p107,Desk Lamp,Home Decor,499
+p108,Mechanical Pencil,Stationery,199
+p109,Notebook Pack,Stationery,299
+p110,Portable SSD 1TB,Electronics,6499
